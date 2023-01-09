@@ -1,0 +1,86 @@
+.one
+{
+    height: 60px;
+    width: 100%;
+    background-color: #2874f0;
+    position: fixed;
+}
+.row
+{
+    height: 60px;
+    width: 100%;
+}
+/* logo image style */
+#logo
+{
+    height: 35px;
+    width: 100px;
+    margin-top: 11.5px;
+    border-radius: 2px;
+}
+/* search box */
+input
+{
+    margin-top: 15px;
+    width: 255px;
+    border: none;
+    border-radius: 3px;
+}
+/* search icon */
+#srch
+{
+    height: 25px;
+    width: 25px;
+}
+#a
+{
+    border: none;
+    margin-top: 15px;
+    height: 25.97px;
+    width: 30px;
+    border-radius: 3px;
+}
+/* login button */
+#log
+{
+    border: none;
+    width: 100px;
+    margin-top: 15px;
+    margin-left: -75px;
+    border-radius: 3px;
+    background-color: #fff;
+}
+select
+{
+    margin-top: 16px;
+    margin-left: -25px;
+    border: none;
+    border-radius: 3px;
+}
+
+
+/* menu */
+.two
+{
+    height: 100px;
+    position: relative;
+    top: 65px;
+}
+.menu
+{
+    height: 80px;
+    width: 80px;
+}
+figcaption
+{
+    text-align: center;
+    font-size:medium;
+}
+
+/* carousel */
+
+#carouselExampleControls
+{
+    position: relative;
+    top: 130px;
+}
